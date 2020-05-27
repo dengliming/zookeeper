@@ -48,7 +48,7 @@
 
   <properties>
     <asm.version>3.1</asm.version>
-    <grizzly.version>1.9.8</grizzly.version>
+    <grizzly.version>1.9.65</grizzly.version>
     <jersey.version>1.1.5.1</jersey.version>
   </properties>
 
